@@ -160,4 +160,3 @@ const summarizeText = async () => {
 
 ---
 
-Would you like a **starter template** for one of these projects (e.g. AI summarizer or chatbot)? I can generate a full repo structure or code boilerplate for you.
